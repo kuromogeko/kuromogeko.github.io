@@ -1,6 +1,5 @@
 ---
-layout: page
 title: "Der Einstieg"
-permalink: /einstieg
+permalink: /
 ---
-# Testtitel
+# League Teams Starter Guide
