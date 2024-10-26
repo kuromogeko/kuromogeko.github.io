@@ -12,7 +12,7 @@ Lasst mich als erstes die Zielgruppe von diesem Dokument ein bisschen näher spe
 ## Aufbau
 
 Wir unterscheiden in 3 große Gebiete 
-- Draft
+- [Draft](./draft.md)
 - Ingame
 - Team und Teamstrukturen
 
