@@ -13,7 +13,7 @@ Lasst mich als erstes die Zielgruppe von diesem Dokument ein bisschen näher spe
 
 Wir unterscheiden in 3 große Gebiete 
 - [Draft](./draft.md)
-- Ingame
+- [Ingame](./ingame.md)
 - Team und Teamstrukturen
 
 Der Draft ist die Phase des Spiels in der Teams Entscheidungen treffen, welche Champions sie picken und bannen wollen. Im Draft gibt es zwei große Gebiete, die "Reconnaisance & Planning" und die Draft Execution. In "Reconnaisance & Planning" befinden wir uns noch nicht im Spiel und probieren möglichst viele Informationen über die Gegner, aber auch über das eigene Team zu finden und zurechtzulegen, sodass sie in der Execution genutzt werden können. In der "Draft Execution" geht es darum die zuvor ergatterten Informationen möglichst gut zu nutzen und auf alle möglichen Überraschungen angemessen reagieren zu können.  
