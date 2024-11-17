@@ -33,11 +33,23 @@ Die Stärke von diesem Team ist ein unglaublich gut geschützter Aphelios. Darin
 
 Damit können wir nun vergleichen. Beide Teams wollen am Ende des Tages das gleiche tun, einen Teamfight spielen. Unser Team durch eine Ult-Combo, die Gegner durch einen sehr sicheren Aphelios. Wo liegt also das Risiko? Wenn Aphelios im Teamfight der Ultimate-Combo entgeht geht unserem Team "die Luft aus", und Aphelios räumt auf. Das ist nicht nur für den einzelnen Teamfight ein Risiko sondern auch für weitere. Unsere Teamcomp hat zwar eigentlich besseres Scaling, wenn Aphelios jedoch in der Gold-Kurve ahead kommt, dann hat dies wenig Bedeutung. Nun können wir uns noch Fragen, was die Kost des "nicht handelns" ist, ergo was passiert wenn wir jede Situation an der Aphelios beteiligt ist fluchtartig verlassen. Hier gibt es natürlich eine Einschränkung, nämlich "solange Aphelios und sein Team in einer starken Situation sind, bevor wir sie outscalen". In diesem Falle gehen wir also davon aus "2 Drakes, 3 Grubs, 1 Herald, 5 Plates, 1 Tower". Auch damit wird Aphelios in der Goldkurve nach vorne gelangen. Aber in der Zeit ist unser Team natürlich nicht AFK also überlegen wir, was können wir (zuverlässig) in dieser Zeit bekommen. Behaupten wir mal "3 Kills, 6 Platings". Nun ist der Teil, wo Erfahrung ins Spiel kommt denn wir müssen die Abschätzung treffen "Wollen wir probieren aktiv Aphelios kleinzuhalten, auch wenn bei Fehlern das Risiko besteht, dass er uns mit dem Spiel davon rennt" ODER "Müssen wir was gegen Aphelios machen, da er uns sonst über die Objectives davon rennt"? Ihr seht diese Einschätzungen hängen nun sehr stark von Erfahrung, Präferenz und Intuition ab (oder einer exzessiven Exceltabelle, von der ich aber abraten würde). In diesem Beispiel behaupte ich einmal unser Team fühlt sich im Lategame nicht besonders wohl und möchte trotz Scaling schon vorher etwas machen. Damit habt ihr einen Gameplan.
 
+Für das Finden des Gameplans können wir uns also folgende Fragen stellen:
+1) Worin ist unser Team gut?
+2) Worin ist unser Team schlecht? Was sind die Schwächen von unserem Team?
+3) Wenn wir nur anhand der Stärken unserer Champions spielen, was ist unser Gameplan?
+4) Worin ist das gegnerische Team gut? 
+5) Worin ist das gegnerische Team schlecht? Was sind ihre Schwächen?
+6) Wenn das gegnerische Team nur entlang der Stärken ihrer Champions spielt, was werden sie tun?
+7) Wenn beide Teams "in Ruhe ihr Ding machen dürfen" wer gewinnt? (Gerne auch für alternative Pläne iterieren)
+8) Wenn euer Team probiert das gegnerische Team aufzuhalten und das gegnerische Team probiert seinen Plan durchzuziehen, wer gewinnt?
+9) Wenn euer Team probiert seinen Plan durchzuziehen und die Gegner probieren euch aufzuhalten, wer gewinnt?
+10) Wennn beide sich "gegenseitig aufhalten", wer gewinnt? (Das hier nennt man Fiesta, das ist nur selten schlau)
+
 ## Entscheidungsfindung
 
 Ein Gameplan reicht natürlich nicht zum gewinnen, deswegen sucht unser Team nun nach konkreten Maßnahmen. Den Spielern fallen dabei folgende Taktiken ein.
 
 Taktik A: Wir teamfighten einfach trotzdem und probieren mit unserer Ult-Combo Aphelios zu erwischen. Damit das auch ganz sicher funktioniert teilen wir unsere Kombo auf. Ashe-Ult+ Rumble Ult und Jarvan Ult + Ori Ult. Wenn Aphelios dann also einen defensiven Summoner Spell hat, dann haben wir eine Ersatz-Combo. Das Restrisiko besteht darin, dass Shen, Karma und Nami zu viele Schilde und Heilung haben.
 
-Taktik B: Wir sorgen dafür, dass Aphelios zum Teamfight nie Flash hat. Das machen wir indem wir die Wave vor unseren Tower zwingen (2 Minuten vorm Objective) und Aphelios vor die Wahl stellen "Gib Farm auf und sei schwach oder nimm den riskanten Farm". Wenn er den riskanten Farm nimmt ganken wir. Das Risiko ist der Countergank von Lee Sin und die Schwierigkeit in der Koordination von Wave und Gank (denn auch Jarvan möchte farmen). Im Teamfight ist eine volle Ult-Combo dafür nahezu garantiert. Da wir 2 Minuten vor dem Objective spielen sind dann unsere Ultimates wieder da, nicht jedoch die Summoner von Aphelios.
+Taktik B: Wir sorgen dafür, dass Aphelios zum Teamfight nie Flash hat (sonst spielen wir den Fight nicht!). Das machen wir indem wir die Wave vor unseren Tower zwingen (2 Minuten vorm Objective) und Aphelios vor die Wahl stellen "Gib Farm auf und sei schwach oder nimm den riskanten Farm". Wenn er den riskanten Farm nimmt ganken wir. Das Risiko ist der Countergank von Lee Sin und die Schwierigkeit in der Koordination von Wave und Gank (denn auch Jarvan möchte farmen). Im Teamfight ist eine volle Ult-Combo dafür nahezu garantiert. Da wir 2 Minuten vor dem Objective spielen sind dann unsere Ultimates wieder da, nicht jedoch die Summoner von Aphelios.
 
